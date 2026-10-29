@@ -1,0 +1,8 @@
+Sip & Remember slaat gegevens lokaal op het toestel op.
+
+De app verzamelt geen persoonsgegevens,
+verstuurt geen gegevens naar externe servers
+en deelt geen gegevens met derden.
+
+Foto's en locaties worden uitsluitend
+lokaal opgeslagen op het apparaat van de gebruiker.
